@@ -15,6 +15,4 @@ public class Task {
     private TaskStatus status = TaskStatus.PENDING;
 
     private LocalDateTime submittedAt = LocalDateTime.now();
-
-    // Getters and setters...
 }
