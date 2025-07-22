@@ -1,0 +1,4 @@
+public class StatusUpdateRequest {
+    @NotBlank
+    private String newStatus;
+}
